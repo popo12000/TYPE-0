@@ -1,0 +1,15 @@
+nav {
+    display:grid;
+    gap: 15px;
+    grid-template-columns:auto auto auto;
+    padding: 4px 5px; 
+    }
+    button { 
+        background-color: skyblue;
+        border: none;  color:white ;  
+        padding: 1px 1px;  
+        text-align:center;
+        text-decoration:silver;  
+        font-size: 20px;
+        border: 2px solid black;
+   }
